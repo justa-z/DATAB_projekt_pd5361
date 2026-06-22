@@ -1,0 +1,501 @@
+result_id,test_id,variant,position,impact
+1,21,rs112233,chr8:976328,Likely Benign
+2,54,rs112233,chr1:483738,Likely Benign
+3,28,rs98765,chr16:227340,Pathogenic
+4,84,rs67890,chrX:747332,Uncertain Significance
+5,141,rs12345,chr12:331234,Likely Benign
+6,84,rs67890,chr3:143103,Uncertain Significance
+7,41,rs112233,chr3:235555,Pathogenic
+8,20,rs98765,chr19:302590,Uncertain Significance
+9,74,rs67890,chr19:233864,Uncertain Significance
+10,144,rs12345,chr10:142024,Pathogenic
+11,11,rs67890,chrY:470485,Likely Benign
+12,58,rs12345,chr15:356045,Benign
+13,85,rs12345,chr7:641647,Benign
+14,147,rs67890,chrY:994318,Benign
+15,33,rs67890,chr13:703868,Benign
+16,63,rs54321,chr7:524995,Uncertain Significance
+17,82,rs12345,chr1:249663,Benign
+18,96,rs54321,chr21:210776,Uncertain Significance
+19,122,rs98765,chr21:296909,Uncertain Significance
+20,113,rs98765,chr3:758601,Likely Benign
+21,125,rs67890,chr22:537170,Likely Benign
+22,10,rs54321,chr17:104694,Likely Benign
+23,71,rs98765,chr12:214807,Uncertain Significance
+24,150,rs12345,chr11:741188,Pathogenic
+25,37,rs98765,chr6:641247,Benign
+26,135,rs112233,chr21:310049,Benign
+27,38,rs54321,chr18:535369,Uncertain Significance
+28,142,rs12345,chr20:573694,Pathogenic
+29,100,rs67890,chr2:308297,Uncertain Significance
+30,56,rs112233,chr20:479357,Benign
+31,2,rs112233,chr11:965016,Uncertain Significance
+32,4,rs54321,chr11:221718,Likely Benign
+33,62,rs112233,chr14:566651,Uncertain Significance
+34,137,rs112233,chr3:602827,Uncertain Significance
+35,11,rs98765,chr13:40622,Likely Benign
+36,35,rs112233,chr8:458768,Uncertain Significance
+37,127,rs54321,chr6:483776,Likely Benign
+38,7,rs67890,chr22:275317,Likely Benign
+39,41,rs54321,chrY:441780,Likely Benign
+40,82,rs67890,chr10:565309,Pathogenic
+41,54,rs12345,chr17:538330,Pathogenic
+42,76,rs54321,chr10:808217,Pathogenic
+43,97,rs54321,chr2:281245,Benign
+44,125,rs54321,chr15:349504,Benign
+45,69,rs12345,chrX:796120,Benign
+46,108,rs12345,chr12:748724,Benign
+47,40,rs67890,chr3:119808,Pathogenic
+48,33,rs112233,chr22:527964,Benign
+49,70,rs12345,chr21:426717,Pathogenic
+50,125,rs98765,chr1:534351,Pathogenic
+51,129,rs112233,chr3:434398,Benign
+52,61,rs54321,chr20:106903,Pathogenic
+53,120,rs98765,chr19:787541,Likely Benign
+54,135,rs12345,chr11:367243,Pathogenic
+55,150,rs12345,chr2:543163,Uncertain Significance
+56,13,rs112233,chr4:465986,Benign
+57,126,rs12345,chr20:671020,Likely Benign
+58,109,rs67890,chr6:256604,Likely Benign
+59,105,rs12345,chr1:932959,Likely Benign
+60,108,rs67890,chr10:902964,Likely Benign
+61,14,rs67890,chr1:268072,Likely Benign
+62,137,rs98765,chr18:39939,Uncertain Significance
+63,87,rs67890,chr5:124234,Benign
+64,21,rs112233,chr7:855229,Likely Benign
+65,10,rs67890,chr22:474236,Pathogenic
+66,109,rs112233,chr6:349386,Benign
+67,9,rs54321,chr15:670605,Likely Benign
+68,63,rs112233,chrX:674952,Pathogenic
+69,115,rs98765,chr8:602503,Pathogenic
+70,107,rs98765,chr3:227624,Uncertain Significance
+71,2,rs112233,chr17:557723,Pathogenic
+72,50,rs67890,chr14:759063,Uncertain Significance
+73,73,rs112233,chr15:464339,Uncertain Significance
+74,98,rs98765,chr20:971356,Uncertain Significance
+75,8,rs67890,chr8:685481,Uncertain Significance
+76,128,rs98765,chr20:395379,Pathogenic
+77,76,rs67890,chr15:526512,Benign
+78,50,rs54321,chr20:343256,Benign
+79,64,rs67890,chr5:993173,Benign
+80,117,rs54321,chr2:301437,Likely Benign
+81,4,rs98765,chr2:492589,Pathogenic
+82,68,rs98765,chr21:848581,Likely Benign
+83,115,rs98765,chrX:198481,Pathogenic
+84,136,rs54321,chr20:135519,Benign
+85,105,rs67890,chr2:631995,Pathogenic
+86,24,rs112233,chr17:140582,Benign
+87,35,rs98765,chr18:450118,Benign
+88,69,rs54321,chr7:351903,Uncertain Significance
+89,144,rs112233,chr17:580509,Pathogenic
+90,34,rs12345,chr3:418022,Uncertain Significance
+91,125,rs112233,chr5:836332,Pathogenic
+92,32,rs98765,chr18:684630,Likely Benign
+93,4,rs112233,chr7:807141,Pathogenic
+94,71,rs98765,chr13:572829,Uncertain Significance
+95,73,rs12345,chr22:734765,Likely Benign
+96,127,rs67890,chr16:469669,Likely Benign
+97,68,rs112233,chr9:725258,Pathogenic
+98,129,rs67890,chr1:891547,Pathogenic
+99,136,rs54321,chr2:302775,Likely Benign
+100,7,rs98765,chrY:880113,Pathogenic
+101,49,rs12345,chr22:13569,Pathogenic
+102,122,rs12345,chr16:37900,Uncertain Significance
+103,26,rs98765,chr13:694362,Likely Benign
+104,26,rs54321,chr16:799435,Pathogenic
+105,77,rs112233,chr21:3899,Likely Benign
+106,17,rs98765,chr8:51567,Pathogenic
+107,141,rs12345,chr9:4742,Benign
+108,116,rs54321,chr12:76432,Pathogenic
+109,18,rs98765,chr2:566100,Pathogenic
+110,34,rs67890,chr18:525220,Benign
+111,85,rs112233,chr10:363927,Pathogenic
+112,150,rs98765,chr20:25176,Pathogenic
+113,90,rs112233,chr3:309751,Uncertain Significance
+114,126,rs67890,chr22:271158,Likely Benign
+115,144,rs67890,chr22:89784,Likely Benign
+116,22,rs112233,chr17:48432,Pathogenic
+117,107,rs67890,chrY:499171,Benign
+118,2,rs54321,chr5:290888,Benign
+119,3,rs54321,chrX:896982,Likely Benign
+120,5,rs54321,chr8:207853,Pathogenic
+121,119,rs67890,chr4:783425,Uncertain Significance
+122,18,rs12345,chr21:998068,Benign
+123,32,rs12345,chr22:759388,Likely Benign
+124,7,rs12345,chrY:886868,Pathogenic
+125,109,rs12345,chr1:764789,Likely Benign
+126,107,rs67890,chr2:750621,Uncertain Significance
+127,132,rs54321,chr20:612364,Uncertain Significance
+128,65,rs12345,chr15:18196,Benign
+129,118,rs54321,chr18:695560,Likely Benign
+130,145,rs54321,chr10:432672,Benign
+131,148,rs54321,chr13:467696,Likely Benign
+132,2,rs98765,chr20:537361,Uncertain Significance
+133,47,rs98765,chrY:284301,Uncertain Significance
+134,33,rs112233,chr11:203389,Likely Benign
+135,90,rs54321,chr12:732949,Benign
+136,48,rs54321,chr3:549660,Benign
+137,112,rs54321,chr7:213986,Uncertain Significance
+138,77,rs98765,chr12:889458,Benign
+139,45,rs54321,chr11:712064,Benign
+140,73,rs67890,chr2:572687,Likely Benign
+141,65,rs112233,chr13:795713,Pathogenic
+142,71,rs98765,chr3:87858,Benign
+143,57,rs67890,chr20:593027,Pathogenic
+144,52,rs12345,chr4:13458,Likely Benign
+145,111,rs54321,chr6:670641,Benign
+146,140,rs98765,chr10:573168,Likely Benign
+147,78,rs112233,chr3:898410,Likely Benign
+148,140,rs67890,chr4:708989,Pathogenic
+149,128,rs112233,chr15:353666,Uncertain Significance
+150,35,rs67890,chr9:932893,Pathogenic
+151,89,rs112233,chr19:338060,Benign
+152,104,rs67890,chr19:113352,Benign
+153,54,rs67890,chrX:819602,Benign
+154,30,rs67890,chr19:487971,Likely Benign
+155,52,rs54321,chr22:276253,Benign
+156,4,rs112233,chr22:959432,Pathogenic
+157,117,rs12345,chr7:995448,Likely Benign
+158,46,rs67890,chr18:852562,Uncertain Significance
+159,68,rs112233,chr22:168669,Uncertain Significance
+160,61,rs67890,chr4:722403,Benign
+161,66,rs12345,chr3:638950,Uncertain Significance
+162,35,rs67890,chr9:537746,Benign
+163,6,rs54321,chrY:442679,Benign
+164,146,rs98765,chr5:504029,Pathogenic
+165,21,rs112233,chrY:824899,Pathogenic
+166,14,rs67890,chr17:153256,Uncertain Significance
+167,85,rs12345,chr5:769675,Benign
+168,65,rs112233,chr5:470011,Benign
+169,128,rs12345,chrX:286276,Benign
+170,127,rs112233,chrX:462495,Benign
+171,6,rs12345,chr4:409046,Likely Benign
+172,96,rs67890,chr21:636703,Likely Benign
+173,75,rs98765,chr8:434767,Pathogenic
+174,10,rs98765,chr5:872691,Likely Benign
+175,35,rs54321,chr7:173491,Likely Benign
+176,70,rs12345,chr21:105063,Likely Benign
+177,106,rs98765,chr4:530799,Uncertain Significance
+178,71,rs67890,chr20:159985,Likely Benign
+179,106,rs54321,chr2:744155,Uncertain Significance
+180,142,rs67890,chr8:261225,Uncertain Significance
+181,19,rs112233,chr20:918921,Uncertain Significance
+182,108,rs112233,chr5:555876,Uncertain Significance
+183,133,rs12345,chr8:465254,Pathogenic
+184,11,rs54321,chr4:819357,Benign
+185,3,rs112233,chr19:367345,Likely Benign
+186,74,rs54321,chr6:87474,Pathogenic
+187,68,rs12345,chr6:842340,Pathogenic
+188,12,rs12345,chr7:806976,Uncertain Significance
+189,135,rs12345,chr12:506519,Pathogenic
+190,47,rs12345,chr10:400014,Benign
+191,82,rs112233,chr6:148584,Uncertain Significance
+192,3,rs67890,chr12:55835,Pathogenic
+193,121,rs12345,chr21:239650,Benign
+194,61,rs112233,chr20:79685,Likely Benign
+195,18,rs12345,chr9:99031,Pathogenic
+196,12,rs54321,chrY:683500,Benign
+197,75,rs112233,chr16:322949,Uncertain Significance
+198,72,rs54321,chr5:678322,Likely Benign
+199,116,rs67890,chr21:540384,Likely Benign
+200,101,rs54321,chr12:363579,Pathogenic
+201,144,rs54321,chr22:586430,Benign
+202,71,rs112233,chr6:305656,Benign
+203,99,rs54321,chr14:278467,Benign
+204,29,rs112233,chr6:211088,Likely Benign
+205,45,rs112233,chrY:357352,Pathogenic
+206,77,rs54321,chr11:545731,Uncertain Significance
+207,87,rs54321,chr9:343233,Benign
+208,20,rs112233,chrX:724973,Pathogenic
+209,140,rs54321,chr12:410892,Uncertain Significance
+210,49,rs98765,chrX:283212,Likely Benign
+211,114,rs54321,chr22:963967,Benign
+212,53,rs112233,chr18:114999,Pathogenic
+213,124,rs67890,chr11:658082,Uncertain Significance
+214,149,rs12345,chrY:631427,Likely Benign
+215,67,rs98765,chr14:775443,Benign
+216,139,rs112233,chr10:811688,Uncertain Significance
+217,142,rs67890,chr16:420712,Pathogenic
+218,48,rs67890,chr5:351246,Benign
+219,31,rs12345,chr14:567942,Likely Benign
+220,42,rs54321,chr12:566781,Pathogenic
+221,6,rs67890,chrY:11679,Uncertain Significance
+222,23,rs54321,chr19:228004,Benign
+223,51,rs98765,chr15:530786,Uncertain Significance
+224,131,rs12345,chr10:322890,Benign
+225,39,rs54321,chr11:628966,Pathogenic
+226,25,rs12345,chr21:827104,Likely Benign
+227,142,rs98765,chr20:626071,Uncertain Significance
+228,65,rs12345,chr15:757138,Benign
+229,13,rs98765,chr3:434518,Likely Benign
+230,85,rs54321,chr17:386683,Pathogenic
+231,56,rs12345,chr1:898081,Uncertain Significance
+232,8,rs67890,chr21:364779,Uncertain Significance
+233,143,rs98765,chr20:99361,Benign
+234,39,rs54321,chr20:345576,Likely Benign
+235,91,rs67890,chrX:692302,Benign
+236,79,rs112233,chrY:223158,Likely Benign
+237,137,rs67890,chr15:168215,Uncertain Significance
+238,84,rs67890,chr7:49255,Uncertain Significance
+239,130,rs54321,chr7:934748,Uncertain Significance
+240,98,rs98765,chr4:331298,Uncertain Significance
+241,99,rs54321,chrY:94494,Likely Benign
+242,100,rs112233,chr21:781184,Pathogenic
+243,143,rs54321,chr2:236303,Pathogenic
+244,32,rs67890,chr18:413921,Benign
+245,48,rs98765,chr13:308043,Uncertain Significance
+246,128,rs12345,chr21:997106,Pathogenic
+247,84,rs98765,chr13:191303,Likely Benign
+248,108,rs67890,chr4:688716,Benign
+249,10,rs54321,chr11:249778,Uncertain Significance
+250,15,rs98765,chr13:624919,Pathogenic
+251,124,rs67890,chr17:739087,Uncertain Significance
+252,26,rs67890,chr20:21693,Benign
+253,58,rs67890,chr8:709574,Likely Benign
+254,36,rs54321,chr7:47816,Pathogenic
+255,59,rs112233,chr16:308002,Uncertain Significance
+256,17,rs112233,chr22:463672,Benign
+257,134,rs98765,chr18:156266,Pathogenic
+258,97,rs98765,chr10:501137,Benign
+259,144,rs67890,chr17:48447,Uncertain Significance
+260,66,rs54321,chr7:26933,Pathogenic
+261,83,rs12345,chr3:299571,Uncertain Significance
+262,40,rs54321,chrY:299325,Uncertain Significance
+263,41,rs67890,chr4:938772,Benign
+264,62,rs54321,chr17:429738,Pathogenic
+265,97,rs112233,chr17:952673,Uncertain Significance
+266,63,rs54321,chrX:923656,Likely Benign
+267,3,rs67890,chr12:740256,Uncertain Significance
+268,94,rs98765,chr21:426177,Benign
+269,46,rs98765,chr12:988244,Pathogenic
+270,119,rs112233,chr2:645568,Pathogenic
+271,150,rs67890,chr20:582804,Likely Benign
+272,27,rs98765,chr1:20100,Uncertain Significance
+273,108,rs67890,chr19:516238,Uncertain Significance
+274,140,rs112233,chr3:8713,Benign
+275,15,rs12345,chr13:123052,Pathogenic
+276,50,rs98765,chr11:851515,Pathogenic
+277,35,rs54321,chr12:357029,Pathogenic
+278,55,rs98765,chr11:835150,Benign
+279,33,rs98765,chr22:136968,Likely Benign
+280,19,rs112233,chr14:872583,Uncertain Significance
+281,118,rs98765,chr7:755231,Uncertain Significance
+282,50,rs54321,chr18:383254,Benign
+283,66,rs12345,chr19:918867,Likely Benign
+284,60,rs67890,chr22:498947,Likely Benign
+285,111,rs12345,chr20:494701,Benign
+286,26,rs67890,chr4:498103,Benign
+287,30,rs12345,chr17:11140,Uncertain Significance
+288,56,rs112233,chr15:116613,Uncertain Significance
+289,3,rs112233,chr8:68564,Pathogenic
+290,5,rs54321,chr3:107179,Pathogenic
+291,81,rs67890,chr2:165003,Uncertain Significance
+292,18,rs112233,chr18:482739,Uncertain Significance
+293,53,rs67890,chr12:566241,Uncertain Significance
+294,9,rs98765,chr18:607994,Uncertain Significance
+295,8,rs98765,chrX:871297,Benign
+296,4,rs98765,chr19:693900,Benign
+297,131,rs112233,chr1:169412,Likely Benign
+298,33,rs54321,chr7:280064,Likely Benign
+299,88,rs67890,chr15:507684,Uncertain Significance
+300,15,rs67890,chr9:12480,Benign
+301,25,rs12345,chr6:614278,Benign
+302,145,rs12345,chr8:974493,Likely Benign
+303,65,rs67890,chr16:865510,Benign
+304,97,rs67890,chr6:299064,Likely Benign
+305,60,rs112233,chr20:331824,Likely Benign
+306,80,rs98765,chr5:408803,Benign
+307,64,rs67890,chr3:768113,Benign
+308,74,rs98765,chr21:476757,Likely Benign
+309,68,rs12345,chr13:668643,Uncertain Significance
+310,41,rs112233,chr22:309014,Pathogenic
+311,1,rs12345,chr17:240444,Pathogenic
+312,61,rs67890,chr17:181783,Pathogenic
+313,119,rs54321,chr4:643007,Benign
+314,146,rs112233,chr20:157091,Pathogenic
+315,52,rs112233,chrY:81746,Pathogenic
+316,91,rs67890,chr13:119225,Benign
+317,101,rs54321,chr19:837689,Uncertain Significance
+318,95,rs12345,chr20:405443,Pathogenic
+319,14,rs112233,chr10:582154,Uncertain Significance
+320,107,rs112233,chr6:425193,Pathogenic
+321,70,rs67890,chr12:99274,Likely Benign
+322,91,rs54321,chr13:602065,Benign
+323,112,rs98765,chrY:76098,Uncertain Significance
+324,95,rs54321,chr2:499229,Pathogenic
+325,32,rs12345,chr13:697691,Benign
+326,3,rs12345,chr12:151461,Benign
+327,116,rs112233,chr15:908560,Uncertain Significance
+328,73,rs54321,chr9:352776,Pathogenic
+329,108,rs98765,chr13:763162,Benign
+330,63,rs54321,chr2:361915,Uncertain Significance
+331,19,rs54321,chr17:414524,Uncertain Significance
+332,121,rs12345,chr2:909821,Likely Benign
+333,78,rs67890,chr10:199961,Likely Benign
+334,83,rs98765,chr1:237358,Benign
+335,42,rs98765,chr19:978552,Likely Benign
+336,107,rs54321,chrX:883380,Likely Benign
+337,129,rs54321,chr12:306903,Uncertain Significance
+338,21,rs12345,chr21:356932,Uncertain Significance
+339,92,rs112233,chrY:901956,Uncertain Significance
+340,114,rs54321,chr6:26670,Likely Benign
+341,51,rs98765,chr5:486350,Uncertain Significance
+342,135,rs98765,chr11:6222,Uncertain Significance
+343,12,rs112233,chr21:207917,Benign
+344,106,rs98765,chr21:991184,Likely Benign
+345,126,rs54321,chr5:731121,Likely Benign
+346,86,rs12345,chr21:133407,Uncertain Significance
+347,100,rs67890,chr16:990145,Likely Benign
+348,60,rs12345,chr13:275852,Likely Benign
+349,75,rs54321,chr12:682435,Benign
+350,46,rs67890,chr7:574336,Uncertain Significance
+351,13,rs98765,chr14:161739,Pathogenic
+352,56,rs54321,chr16:271804,Benign
+353,53,rs67890,chr2:535386,Likely Benign
+354,120,rs12345,chr13:35259,Likely Benign
+355,7,rs67890,chr1:417328,Pathogenic
+356,117,rs112233,chr20:885734,Benign
+357,18,rs54321,chr12:408315,Benign
+358,37,rs12345,chr5:138373,Pathogenic
+359,51,rs54321,chr17:50431,Likely Benign
+360,109,rs112233,chr18:245800,Uncertain Significance
+361,13,rs98765,chr21:198589,Uncertain Significance
+362,88,rs12345,chr17:415779,Likely Benign
+363,82,rs112233,chr2:497819,Uncertain Significance
+364,13,rs54321,chr18:192666,Likely Benign
+365,139,rs12345,chr2:731417,Uncertain Significance
+366,65,rs67890,chr14:724486,Uncertain Significance
+367,83,rs67890,chrY:450898,Pathogenic
+368,123,rs67890,chr11:369048,Benign
+369,79,rs54321,chr4:268453,Likely Benign
+370,102,rs54321,chr10:764230,Pathogenic
+371,115,rs67890,chr2:830557,Uncertain Significance
+372,127,rs67890,chr14:810395,Benign
+373,137,rs98765,chr19:114561,Pathogenic
+374,103,rs67890,chr8:480125,Benign
+375,125,rs12345,chr8:330682,Benign
+376,55,rs54321,chr11:257113,Pathogenic
+377,64,rs54321,chr8:29558,Benign
+378,100,rs54321,chr7:690649,Pathogenic
+379,100,rs12345,chr1:332329,Pathogenic
+380,32,rs112233,chr20:889529,Likely Benign
+381,28,rs112233,chr6:154528,Uncertain Significance
+382,79,rs12345,chr5:15104,Pathogenic
+383,5,rs12345,chr20:816128,Pathogenic
+384,144,rs98765,chr10:945843,Benign
+385,121,rs67890,chrY:512678,Pathogenic
+386,20,rs67890,chr16:853529,Pathogenic
+387,57,rs112233,chr7:581533,Likely Benign
+388,136,rs67890,chr18:721511,Pathogenic
+389,61,rs54321,chr8:907174,Uncertain Significance
+390,46,rs54321,chr2:493295,Pathogenic
+391,7,rs54321,chr2:508055,Uncertain Significance
+392,84,rs54321,chr9:288564,Benign
+393,81,rs12345,chr13:254276,Likely Benign
+394,64,rs112233,chr18:322923,Benign
+395,89,rs112233,chr12:998614,Benign
+396,22,rs98765,chr20:167989,Pathogenic
+397,120,rs12345,chr1:212705,Benign
+398,141,rs54321,chrX:375361,Likely Benign
+399,61,rs12345,chr20:588523,Likely Benign
+400,78,rs67890,chr12:790530,Pathogenic
+401,147,rs54321,chr4:698826,Uncertain Significance
+402,145,rs98765,chr11:10960,Benign
+403,52,rs98765,chrY:649812,Uncertain Significance
+404,17,rs12345,chr5:575491,Benign
+405,120,rs54321,chr16:917947,Likely Benign
+406,4,rs112233,chr12:106879,Benign
+407,4,rs98765,chr20:911010,Pathogenic
+408,85,rs67890,chr16:511668,Likely Benign
+409,126,rs67890,chr20:152403,Likely Benign
+410,129,rs112233,chrY:818125,Benign
+411,59,rs67890,chr3:494344,Likely Benign
+412,99,rs67890,chr18:709766,Pathogenic
+413,20,rs112233,chr20:792600,Pathogenic
+414,70,rs67890,chr14:170122,Pathogenic
+415,139,rs98765,chr2:42232,Uncertain Significance
+416,37,rs12345,chr16:842816,Benign
+417,39,rs112233,chr16:246090,Uncertain Significance
+418,114,rs54321,chr2:551190,Likely Benign
+419,132,rs12345,chr1:662471,Benign
+420,25,rs67890,chr10:591712,Benign
+421,56,rs98765,chr10:601954,Uncertain Significance
+422,67,rs67890,chr19:668633,Benign
+423,39,rs54321,chr16:317133,Uncertain Significance
+424,51,rs112233,chr5:851047,Uncertain Significance
+425,131,rs67890,chr19:506593,Uncertain Significance
+426,85,rs12345,chr14:460465,Likely Benign
+427,94,rs98765,chr13:588888,Pathogenic
+428,57,rs112233,chr12:344286,Likely Benign
+429,49,rs12345,chrX:914890,Benign
+430,13,rs54321,chr15:839765,Uncertain Significance
+431,100,rs12345,chr11:702464,Pathogenic
+432,13,rs98765,chr5:737520,Likely Benign
+433,104,rs112233,chr9:685293,Pathogenic
+434,138,rs67890,chr18:383818,Benign
+435,101,rs112233,chr3:518149,Pathogenic
+436,108,rs54321,chr13:822390,Uncertain Significance
+437,148,rs112233,chr18:736600,Likely Benign
+438,61,rs54321,chr16:390339,Uncertain Significance
+439,28,rs54321,chr12:501855,Pathogenic
+440,22,rs98765,chr13:576488,Pathogenic
+441,116,rs54321,chr6:402032,Benign
+442,92,rs98765,chr13:694528,Uncertain Significance
+443,44,rs98765,chr19:696391,Pathogenic
+444,124,rs112233,chr11:636526,Likely Benign
+445,120,rs12345,chr1:790398,Uncertain Significance
+446,126,rs54321,chr3:906993,Uncertain Significance
+447,36,rs112233,chr5:666891,Likely Benign
+448,82,rs98765,chrY:897500,Likely Benign
+449,108,rs98765,chr11:7802,Likely Benign
+450,9,rs12345,chr15:833334,Uncertain Significance
+451,117,rs12345,chr6:402419,Benign
+452,71,rs67890,chr14:195102,Uncertain Significance
+453,100,rs67890,chr15:220289,Uncertain Significance
+454,54,rs54321,chr8:39690,Benign
+455,48,rs98765,chr10:912342,Benign
+456,86,rs54321,chr14:216301,Likely Benign
+457,130,rs54321,chrY:553905,Likely Benign
+458,20,rs54321,chr20:94443,Benign
+459,74,rs54321,chr8:136773,Uncertain Significance
+460,98,rs12345,chr8:736593,Uncertain Significance
+461,82,rs98765,chr16:138049,Pathogenic
+462,139,rs12345,chr16:840934,Pathogenic
+463,144,rs67890,chr16:566763,Benign
+464,105,rs98765,chrX:494592,Uncertain Significance
+465,134,rs54321,chr3:29104,Benign
+466,135,rs67890,chr2:343782,Likely Benign
+467,9,rs54321,chr21:998342,Benign
+468,140,rs12345,chrX:48655,Pathogenic
+469,53,rs54321,chr4:989574,Likely Benign
+470,54,rs54321,chr2:951064,Uncertain Significance
+471,93,rs67890,chr7:918914,Likely Benign
+472,93,rs54321,chr8:293609,Benign
+473,80,rs12345,chrX:336151,Benign
+474,28,rs98765,chr14:948633,Uncertain Significance
+475,15,rs67890,chr19:336357,Pathogenic
+476,96,rs98765,chr21:946415,Benign
+477,112,rs54321,chr19:807468,Uncertain Significance
+478,6,rs98765,chr18:925864,Pathogenic
+479,127,rs54321,chr22:118960,Likely Benign
+480,118,rs67890,chr12:210651,Benign
+481,83,rs112233,chr9:994573,Pathogenic
+482,124,rs54321,chr4:417543,Benign
+483,113,rs98765,chr4:943657,Benign
+484,53,rs54321,chr21:694329,Pathogenic
+485,143,rs98765,chr4:682733,Pathogenic
+486,63,rs54321,chr20:801618,Uncertain Significance
+487,74,rs67890,chr4:9797,Benign
+488,107,rs98765,chrX:332265,Pathogenic
+489,147,rs112233,chr21:744506,Uncertain Significance
+490,142,rs12345,chr14:367542,Benign
+491,30,rs54321,chr9:49496,Likely Benign
+492,126,rs54321,chr2:265738,Pathogenic
+493,134,rs12345,chr3:202254,Likely Benign
+494,32,rs12345,chr10:38740,Uncertain Significance
+495,18,rs112233,chr12:256000,Uncertain Significance
+496,29,rs67890,chr15:794784,Pathogenic
+497,23,rs54321,chr5:304857,Uncertain Significance
+498,47,rs54321,chrY:578386,Uncertain Significance
+499,62,rs98765,chr1:38358,Pathogenic
+500,6,rs12345,chrX:36047,Uncertain Significance

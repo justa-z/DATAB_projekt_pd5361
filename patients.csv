@@ -1,0 +1,101 @@
+patient_id,name,age,gender,diagnosis
+1,David Miller,58,F,Cystic Fibrosis
+2,John Garcia,26,F,Breast Cancer
+3,David Garcia,34,M,Anemia
+4,Bob Jones,27,F,Lung Cancer
+5,Laura Johnson,80,M,Breast Cancer
+6,James Miller,33,M,Lung Cancer
+7,Bob Brown,57,F,Anemia
+8,Sarah Brown,28,F,Hypertension
+9,Jane Martinez,27,F,Anemia
+10,Laura Hernandez,50,F,Asthma
+11,Laura Johnson,65,F,Lung Cancer
+12,John Johnson,45,F,Colon Cancer
+13,Laura Smith,76,M,Anemia
+14,Jane Martinez,74,M,Lung Cancer
+15,David Smith,80,M,Breast Cancer
+16,Sarah Johnson,48,F,Diabetes
+17,Alice Jones,48,F,Colon Cancer
+18,James Davis,27,M,Cystic Fibrosis
+19,David Johnson,47,F,Hypertension
+20,John Hernandez,67,F,Asthma
+21,Laura Davis,57,F,Breast Cancer
+22,James Davis,41,M,Hypertension
+23,Sarah Johnson,38,F,Asthma
+24,Bob Jones,36,M,Asthma
+25,Jane Johnson,33,F,Asthma
+26,Michael Hernandez,55,M,Hypertension
+27,John Smith,54,M,Breast Cancer
+28,Laura Martinez,69,F,Hypertension
+29,John Smith,27,F,Diabetes
+30,Bob Jones,28,F,Hypertension
+31,Alice Miller,37,F,Colon Cancer
+32,Michael Hernandez,22,M,Breast Cancer
+33,Alice Miller,25,F,Anemia
+34,Sarah Hernandez,68,M,Diabetes
+35,Jane Brown,34,M,Lung Cancer
+36,Jane Jones,48,M,Colon Cancer
+37,Jane Brown,39,M,Hypertension
+38,Alice Brown,79,F,Colon Cancer
+39,Jane Garcia,40,M,Colon Cancer
+40,Alice Williams,33,F,Colon Cancer
+41,David Martinez,68,M,Lung Cancer
+42,Jane Johnson,49,M,Hypertension
+43,Bob Garcia,79,F,Lung Cancer
+44,Emma Miller,32,F,Colon Cancer
+45,James Garcia,44,F,Hypertension
+46,Laura Garcia,59,F,Breast Cancer
+47,John Johnson,50,M,Cystic Fibrosis
+48,Michael Williams,45,F,Diabetes
+49,James Garcia,28,F,Hypertension
+50,James Miller,78,F,Anemia
+51,Emma Martinez,63,F,Asthma
+52,Michael Smith,42,M,Diabetes
+53,Emma Brown,78,M,Diabetes
+54,Laura Garcia,57,M,Diabetes
+55,Bob Miller,50,M,Diabetes
+56,Michael Jones,64,M,Lung Cancer
+57,Laura Hernandez,23,M,Colon Cancer
+58,Sarah Brown,68,M,Diabetes
+59,James Brown,67,F,Cystic Fibrosis
+60,Sarah Miller,80,F,Lung Cancer
+61,Sarah Johnson,48,M,Colon Cancer
+62,David Miller,32,M,Diabetes
+63,Bob Martinez,43,F,Anemia
+64,David Hernandez,50,M,Diabetes
+65,James Brown,76,M,Breast Cancer
+66,James Miller,21,F,Cystic Fibrosis
+67,Bob Martinez,80,M,Colon Cancer
+68,Laura Brown,26,M,Diabetes
+69,Michael Brown,24,M,Colon Cancer
+70,James Miller,55,M,Anemia
+71,Michael Williams,63,M,Breast Cancer
+72,Bob Miller,38,F,Lung Cancer
+73,Michael Jones,69,F,Breast Cancer
+74,Bob Brown,42,M,Lung Cancer
+75,Bob Brown,24,F,Anemia
+76,Bob Smith,79,M,Colon Cancer
+77,Alice Johnson,75,M,Cystic Fibrosis
+78,Jane Smith,33,M,Lung Cancer
+79,David Williams,43,F,Cystic Fibrosis
+80,James Smith,48,M,Lung Cancer
+81,James Hernandez,74,F,Breast Cancer
+82,John Smith,60,F,Lung Cancer
+83,James Brown,30,M,Cystic Fibrosis
+84,David Brown,68,F,Colon Cancer
+85,Jane Jones,61,F,Lung Cancer
+86,Emma Brown,49,F,Hypertension
+87,David Miller,59,M,Colon Cancer
+88,Jane Johnson,73,M,Hypertension
+89,David Johnson,27,M,Lung Cancer
+90,John Smith,56,M,Colon Cancer
+91,Emma Jones,40,F,Diabetes
+92,Alice Jones,68,F,Cystic Fibrosis
+93,Sarah Johnson,61,F,Lung Cancer
+94,Emma Miller,51,F,Hypertension
+95,Laura Jones,55,M,Lung Cancer
+96,Alice Miller,23,M,Lung Cancer
+97,Michael Martinez,58,M,Hypertension
+98,Emma Hernandez,40,M,Hypertension
+99,Bob Hernandez,58,M,Asthma
+100,Bob Garcia,72,F,Cystic Fibrosis
